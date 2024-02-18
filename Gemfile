@@ -48,3 +48,4 @@ end
 
 gem 'rack-cors'
 gem 'awesome_print'
+gem 'jwt'
